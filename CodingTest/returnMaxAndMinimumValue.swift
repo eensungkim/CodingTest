@@ -9,7 +9,7 @@ import Foundation
 
 func returnMaxAndMinimumValue(_ s:String) -> String {
     let splitString = s.split(separator: " ")
-    var intArray = splitString.map { character in
+    let intArray = splitString.map { character in
         return Int(character)!
     }
 
