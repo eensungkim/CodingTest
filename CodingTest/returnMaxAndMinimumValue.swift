@@ -9,10 +9,14 @@ import Foundation
 
 func returnMaxAndMinimumValue(_ s:String) -> String {
     let splitString = s.split(separator: " ")
-    let intArray = splitString.map { character in
+    var intArray = splitString.map { character in
         return Int(character)!
     }
-    print(intArray)
+
+    // 시간 초과로 실패하는 코드
+//    intArray.sort(by: <)
+//    return "\(intArray[0]) \(intArray[intArray.count - 1])"
+    
     let maxInt = intArray.max(by: { leftInt, rightInt in
         return leftInt < rightInt
     })
