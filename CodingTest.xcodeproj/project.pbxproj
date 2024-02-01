@@ -13,6 +13,7 @@
 		8A7740B52B6B257E00B69F98 /* miningMineral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740B42B6B257E00B69F98 /* miningMineral.swift */; };
 		8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740B62B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift */; };
 		8A7740B92B6B264D00B69F98 /* performAssignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740B82B6B264D00B69F98 /* performAssignment.swift */; };
+		8A7740BB2B6B30E300B69F98 /* matchParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740BA2B6B30E300B69F98 /* matchParentheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		8A7740B42B6B257E00B69F98 /* miningMineral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = miningMineral.swift; sourceTree = "<group>"; };
 		8A7740B62B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findIntegerCoordinateBetweenTwoCircles.swift; sourceTree = "<group>"; };
 		8A7740B82B6B264D00B69F98 /* performAssignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = performAssignment.swift; sourceTree = "<group>"; };
+		8A7740BA2B6B30E300B69F98 /* matchParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = matchParentheses.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				8A7740B42B6B257E00B69F98 /* miningMineral.swift */,
 				8A7740B62B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift */,
 				8A7740B82B6B264D00B69F98 /* performAssignment.swift */,
+				8A7740BA2B6B30E300B69F98 /* matchParentheses.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A7740BB2B6B30E300B69F98 /* matchParentheses.swift in Sources */,
 				8A7740B52B6B257E00B69F98 /* miningMineral.swift in Sources */,
 				8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */,
 				8A7740B12B6B21CE00B69F98 /* returnMaxAndMinimumValue.swift in Sources */,
