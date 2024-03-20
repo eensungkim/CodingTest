@@ -10,23 +10,22 @@ import Foundation
 func deliverAndPick(_ cap:Int, _ n:Int, _ deliveries:[Int], _ pickups:[Int]) -> Int64 {
     var distance: Int = 0
     
-    var delivered = 0
-    var picked = 0
+    var ableToDeliver = 0
+    var ableToPick = 0
     
-    for index in 1...n {
-        let i = n - index
-        if deliveries[i] != 0 || pickups[i] != 0 {
-            var isFull = 0
+    for index in stride(from: n - 1, through: 0, by: -1) {
+        if deliveries[index] != 0 || pickups[index] != 0 {
+            var oneWayCount = 0
             
-            while delivered < deliveries[i] || picked < pickups[i] {
-                isFull += 1
-                delivered += cap
-                picked += cap
+            while ableToDeliver < deliveries[index] || ableToPick < pickups[index] {
+                oneWayCount += 1
+                ableToDeliver += cap
+                ableToPick += cap
             }
             
-            delivered -= deliveries[i]
-            picked -=  pickups[i]
-            distance += (i + 1) * isFull * 2
+            ableToDeliver -= deliveries[index]
+            ableToPick -=  pickups[index]
+            distance += (index + 1) * oneWayCount * 2
         }
     }
     
