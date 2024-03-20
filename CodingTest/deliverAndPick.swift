@@ -27,7 +27,6 @@ func deliverAndPick(_ cap:Int, _ n:Int, _ deliveries:[Int], _ pickups:[Int]) -> 
             delivered -= deliveries[i]
             picked -=  pickups[i]
             distance += (i + 1) * isFull * 2
-            print("isFull : ", isFull)
         }
     }
     

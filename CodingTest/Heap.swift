@@ -59,8 +59,8 @@ struct Heap<T: Comparable> {
     
     mutating func dive(_ index: Int) {
         var current = index
-        var leftIndex = leftChild(current)
-        var rightIndex = rightChild(current)
+        let leftIndex = leftChild(current)
+        let rightIndex = rightChild(current)
 
         if leftIndex < heap.endIndex && sortFunction(heap[current], heap[leftIndex]) {
             current = leftIndex
