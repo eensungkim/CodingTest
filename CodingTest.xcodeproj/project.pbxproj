@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A6BE65E2BC5328500291E78 /* pickTangerine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6BE65D2BC5328500291E78 /* pickTangerine.swift */; };
 		8A7740AA2B6B217F00B69F98 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740A92B6B217F00B69F98 /* main.swift */; };
 		8A7740B12B6B21CE00B69F98 /* returnMaxAndMinimumValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740B02B6B21CE00B69F98 /* returnMaxAndMinimumValue.swift */; };
 		8A7740B32B6B250900B69F98 /* createMinimumValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7740B22B6B250900B69F98 /* createMinimumValue.swift */; };
@@ -34,6 +35,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8A6BE65D2BC5328500291E78 /* pickTangerine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pickTangerine.swift; sourceTree = "<group>"; };
 		8A7740A62B6B217F00B69F98 /* CodingTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A7740A92B6B217F00B69F98 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8A7740B02B6B21CE00B69F98 /* returnMaxAndMinimumValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = returnMaxAndMinimumValue.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				8A7F10832B71B8B600525097 /* doBroadJump.swift */,
 				8AFCB4662BA9AC62000C74AB /* Heap.swift */,
 				8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */,
+				8A6BE65D2BC5328500291E78 /* pickTangerine.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */,
 				8A7E8B0B2B7D92C500B73165 /* NextBigNumber.swift in Sources */,
 				8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */,
+				8A6BE65E2BC5328500291E78 /* pickTangerine.swift in Sources */,
 				8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */,
 				8A7F10842B71B8B600525097 /* doBroadJump.swift in Sources */,
 				8A7740B12B6B21CE00B69F98 /* returnMaxAndMinimumValue.swift in Sources */,
