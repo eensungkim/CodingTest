@@ -24,6 +24,7 @@
 		8A85A2DE2C2BDA18003389E0 /* fibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2DD2C2BDA18003389E0 /* fibonacciNumber.swift */; };
 		8A85A2E02C2BEF0C003389E0 /* jumpAndTeleportation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2DF2C2BEF0C003389E0 /* jumpAndTeleportation.swift */; };
 		8A85A2E22C2BF821003389E0 /* leastCommonMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2E12C2BF821003389E0 /* leastCommonMultiple.swift */; };
+		8A85A2E42C2C3AB4003389E0 /* expectedBracket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2E32C2C3AB4003389E0 /* expectedBracket.swift */; };
 		8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */; };
 		8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4642BA985CA000C74AB /* defenceGame.swift */; };
 		8AFCB4672BA9AC62000C74AB /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4662BA9AC62000C74AB /* Heap.swift */; };
@@ -60,6 +61,7 @@
 		8A85A2DD2C2BDA18003389E0 /* fibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fibonacciNumber.swift; sourceTree = "<group>"; };
 		8A85A2DF2C2BEF0C003389E0 /* jumpAndTeleportation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jumpAndTeleportation.swift; sourceTree = "<group>"; };
 		8A85A2E12C2BF821003389E0 /* leastCommonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leastCommonMultiple.swift; sourceTree = "<group>"; };
+		8A85A2E32C2C3AB4003389E0 /* expectedBracket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = expectedBracket.swift; sourceTree = "<group>"; };
 		8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliverAndPick.swift; sourceTree = "<group>"; };
 		8AFCB4642BA985CA000C74AB /* defenceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = defenceGame.swift; sourceTree = "<group>"; };
 		8AFCB4662BA9AC62000C74AB /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 				8A85A2DD2C2BDA18003389E0 /* fibonacciNumber.swift */,
 				8A85A2DF2C2BEF0C003389E0 /* jumpAndTeleportation.swift */,
 				8A85A2E12C2BF821003389E0 /* leastCommonMultiple.swift */,
+				8A85A2E32C2C3AB4003389E0 /* expectedBracket.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				8A85A2DC2C2BD8EB003389E0 /* carpet.swift in Sources */,
 				8A7740BB2B6B30E300B69F98 /* matchParentheses.swift in Sources */,
 				8A7740B52B6B257E00B69F98 /* miningMineral.swift in Sources */,
+				8A85A2E42C2C3AB4003389E0 /* expectedBracket.swift in Sources */,
 				8A85A2E02C2BEF0C003389E0 /* jumpAndTeleportation.swift in Sources */,
 				8A85A2DA2C2AE962003389E0 /* repeatBinaryConversion.swift in Sources */,
 				8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */,
