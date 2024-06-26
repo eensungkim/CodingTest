@@ -21,6 +21,7 @@
 		8A85A2D82C2989F6003389E0 /* researchMicroorganism.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2D72C2989F6003389E0 /* researchMicroorganism.swift */; };
 		8A85A2DA2C2AE962003389E0 /* repeatBinaryConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2D92C2AE962003389E0 /* repeatBinaryConversion.swift */; };
 		8A85A2DC2C2BD8EB003389E0 /* carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2DB2C2BD8EB003389E0 /* carpet.swift */; };
+		8A85A2DE2C2BDA18003389E0 /* fibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2DD2C2BDA18003389E0 /* fibonacciNumber.swift */; };
 		8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */; };
 		8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4642BA985CA000C74AB /* defenceGame.swift */; };
 		8AFCB4672BA9AC62000C74AB /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4662BA9AC62000C74AB /* Heap.swift */; };
@@ -54,6 +55,7 @@
 		8A85A2D72C2989F6003389E0 /* researchMicroorganism.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = researchMicroorganism.swift; sourceTree = "<group>"; };
 		8A85A2D92C2AE962003389E0 /* repeatBinaryConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = repeatBinaryConversion.swift; sourceTree = "<group>"; };
 		8A85A2DB2C2BD8EB003389E0 /* carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carpet.swift; sourceTree = "<group>"; };
+		8A85A2DD2C2BDA18003389E0 /* fibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fibonacciNumber.swift; sourceTree = "<group>"; };
 		8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliverAndPick.swift; sourceTree = "<group>"; };
 		8AFCB4642BA985CA000C74AB /* defenceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = defenceGame.swift; sourceTree = "<group>"; };
 		8AFCB4662BA9AC62000C74AB /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				8A85A2D72C2989F6003389E0 /* researchMicroorganism.swift */,
 				8A85A2D92C2AE962003389E0 /* repeatBinaryConversion.swift */,
 				8A85A2DB2C2BD8EB003389E0 /* carpet.swift */,
+				8A85A2DD2C2BDA18003389E0 /* fibonacciNumber.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				8A85A2DA2C2AE962003389E0 /* repeatBinaryConversion.swift in Sources */,
 				8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */,
 				8A7E8B0B2B7D92C500B73165 /* NextBigNumber.swift in Sources */,
+				8A85A2DE2C2BDA18003389E0 /* fibonacciNumber.swift in Sources */,
 				8A85A2D82C2989F6003389E0 /* researchMicroorganism.swift in Sources */,
 				8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */,
 				8A6BE65E2BC5328500291E78 /* pickTangerine.swift in Sources */,
