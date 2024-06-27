@@ -12,8 +12,7 @@ import Foundation
  두 사람의 번호가 같아질 때 마무리된다는 것이 아이디어의 핵심
  */
 
-func solution(_ n:Int, _ a:Int, _ b:Int) -> Int
-{
+func expectedBracket(_ n:Int, _ a:Int, _ b:Int) -> Int {
     var result: Int = 0
     var a: Double = Double(a)
     var b: Double = Double(b)

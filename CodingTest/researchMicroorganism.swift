@@ -7,7 +7,7 @@
 
 import Foundation
 
-func example() {
+func researchMicroorganism() {
     let counts: Int = Int(readLine()!)!
     let input: String = readLine()!
     let array = input.split(separator: " ").enumerated().map { ($0 + 1, Int($1)!) }

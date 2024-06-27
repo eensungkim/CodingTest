@@ -13,7 +13,7 @@ import Foundation
  모듈러 연산이 없다면 Int 로 처리할 수 있는 크기를 넘어서 일부 테스트케이스는 통과할 수 없음
  */
 
-func solution(_ n:Int) -> Int {
+func fibonacciNumber(_ n:Int) -> Int {
     if n == 2 { return n }
     
     var fib1: Int = 1

@@ -12,7 +12,7 @@ import Foundation
  최대공약수와 최소공배수를 구하는 로직은 작성이 어렵지 않은 만큼 외워두면 쓸 일이 있을지도..
  */
 
-func solution(_ arr:[Int]) -> Int {
+func leastCommonMultiple(_ arr:[Int]) -> Int {
     return arr.reduce(1) { lcm($0, $1) }
 }
 
