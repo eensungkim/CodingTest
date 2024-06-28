@@ -32,6 +32,7 @@
 		8A85A2EE2C2D4184003389E0 /* multiplyMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2ED2C2D4184003389E0 /* multiplyMatrix.swift */; };
 		8A85A2F02C2E4F81003389E0 /* splitN2Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2EF2C2E4F81003389E0 /* splitN2Array.swift */; };
 		8A85A2F22C2E5355003389E0 /* h-index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F12C2E5355003389E0 /* h-index.swift */; };
+		8A85A2F42C2E713B003389E0 /* clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F32C2E713B003389E0 /* clothes.swift */; };
 		8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */; };
 		8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4642BA985CA000C74AB /* defenceGame.swift */; };
 		8AFCB4672BA9AC62000C74AB /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4662BA9AC62000C74AB /* Heap.swift */; };
@@ -76,6 +77,7 @@
 		8A85A2ED2C2D4184003389E0 /* multiplyMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multiplyMatrix.swift; sourceTree = "<group>"; };
 		8A85A2EF2C2E4F81003389E0 /* splitN2Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = splitN2Array.swift; sourceTree = "<group>"; };
 		8A85A2F12C2E5355003389E0 /* h-index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "h-index.swift"; sourceTree = "<group>"; };
+		8A85A2F32C2E713B003389E0 /* clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clothes.swift; sourceTree = "<group>"; };
 		8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliverAndPick.swift; sourceTree = "<group>"; };
 		8AFCB4642BA985CA000C74AB /* defenceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = defenceGame.swift; sourceTree = "<group>"; };
 		8AFCB4662BA9AC62000C74AB /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				8A85A2ED2C2D4184003389E0 /* multiplyMatrix.swift */,
 				8A85A2EF2C2E4F81003389E0 /* splitN2Array.swift */,
 				8A85A2F12C2E5355003389E0 /* h-index.swift */,
+				8A85A2F32C2E713B003389E0 /* clothes.swift */,
 			);
 			path = CodingTest;
 			sourceTree = "<group>";
@@ -208,6 +211,7 @@
 				8A85A2EC2C2D30DC003389E0 /* saleEvent.swift in Sources */,
 				8A85A2DC2C2BD8EB003389E0 /* carpet.swift in Sources */,
 				8A7740BB2B6B30E300B69F98 /* matchParentheses.swift in Sources */,
+				8A85A2F42C2E713B003389E0 /* clothes.swift in Sources */,
 				8A7740B52B6B257E00B69F98 /* miningMineral.swift in Sources */,
 				8A85A2E42C2C3AB4003389E0 /* expectedBracket.swift in Sources */,
 				8A85A2E02C2BEF0C003389E0 /* jumpAndTeleportation.swift in Sources */,
