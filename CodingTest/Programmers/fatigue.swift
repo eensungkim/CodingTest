@@ -15,6 +15,10 @@ import Foundation
  elem in dungeon != elem 이면
  map 으로 들어와서 마주쳤던 던전과, dungeons 의 던전을 각각 비교해서 다른 것만을 남긴다는 것 같은데
  똑같은 던전이 여러 개 있어도 문제 없이 동작하는 이유는 뭐지..?
+ ---------------------
+ **추가**
+ 아래 코드는 똑같은 던전이 있는 경우 올바르게 동작하지 않는 것으로 보임.
+ 중복 테스트 케이스를 입력했었는데 결과를 잘못 입력해서 문제 없이 동작한다고 착각했었음
  
  func solution(_ k: Int, _ dungeons: [[Int]]) -> Int {
      return explore(k, dungeons, 0)
