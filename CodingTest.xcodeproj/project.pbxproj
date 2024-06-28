@@ -35,6 +35,7 @@
 		8A85A2F42C2E713B003389E0 /* clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F32C2E713B003389E0 /* clothes.swift */; };
 		8A85A2F62C2E762E003389E0 /* developFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F52C2E762E003389E0 /* developFeature.swift */; };
 		8A85A2FB2C2E8688003389E0 /* no1Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2FA2C2E8688003389E0 /* no1Cache.swift */; };
+		8A85A2FD2C2E8B56003389E0 /* process.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2FC2C2E8B56003389E0 /* process.swift */; };
 		8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */; };
 		8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4642BA985CA000C74AB /* defenceGame.swift */; };
 		8AFCB4672BA9AC62000C74AB /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4662BA9AC62000C74AB /* Heap.swift */; };
@@ -82,6 +83,7 @@
 		8A85A2F32C2E713B003389E0 /* clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clothes.swift; sourceTree = "<group>"; };
 		8A85A2F52C2E762E003389E0 /* developFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = developFeature.swift; sourceTree = "<group>"; };
 		8A85A2FA2C2E8688003389E0 /* no1Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no1Cache.swift; sourceTree = "<group>"; };
+		8A85A2FC2C2E8B56003389E0 /* process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = process.swift; sourceTree = "<group>"; };
 		8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliverAndPick.swift; sourceTree = "<group>"; };
 		8AFCB4642BA985CA000C74AB /* defenceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = defenceGame.swift; sourceTree = "<group>"; };
 		8AFCB4662BA9AC62000C74AB /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				8A85A2F32C2E713B003389E0 /* clothes.swift */,
 				8A85A2F52C2E762E003389E0 /* developFeature.swift */,
 				8A85A2FA2C2E8688003389E0 /* no1Cache.swift */,
+				8A85A2FC2C2E8B56003389E0 /* process.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				8A85A2EC2C2D30DC003389E0 /* saleEvent.swift in Sources */,
 				8A85A2DC2C2BD8EB003389E0 /* carpet.swift in Sources */,
 				8A85A2F62C2E762E003389E0 /* developFeature.swift in Sources */,
+				8A85A2FD2C2E8B56003389E0 /* process.swift in Sources */,
 				8A7740BB2B6B30E300B69F98 /* matchParentheses.swift in Sources */,
 				8A85A2F42C2E713B003389E0 /* clothes.swift in Sources */,
 				8A7740B52B6B257E00B69F98 /* miningMineral.swift in Sources */,
