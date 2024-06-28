@@ -34,6 +34,7 @@
 		8A85A2F22C2E5355003389E0 /* h-index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F12C2E5355003389E0 /* h-index.swift */; };
 		8A85A2F42C2E713B003389E0 /* clothes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F32C2E713B003389E0 /* clothes.swift */; };
 		8A85A2F62C2E762E003389E0 /* developFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2F52C2E762E003389E0 /* developFeature.swift */; };
+		8A85A2FB2C2E8688003389E0 /* no1Cache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2FA2C2E8688003389E0 /* no1Cache.swift */; };
 		8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */; };
 		8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4642BA985CA000C74AB /* defenceGame.swift */; };
 		8AFCB4672BA9AC62000C74AB /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4662BA9AC62000C74AB /* Heap.swift */; };
@@ -80,6 +81,7 @@
 		8A85A2F12C2E5355003389E0 /* h-index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "h-index.swift"; sourceTree = "<group>"; };
 		8A85A2F32C2E713B003389E0 /* clothes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clothes.swift; sourceTree = "<group>"; };
 		8A85A2F52C2E762E003389E0 /* developFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = developFeature.swift; sourceTree = "<group>"; };
+		8A85A2FA2C2E8688003389E0 /* no1Cache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = no1Cache.swift; sourceTree = "<group>"; };
 		8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliverAndPick.swift; sourceTree = "<group>"; };
 		8AFCB4642BA985CA000C74AB /* defenceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = defenceGame.swift; sourceTree = "<group>"; };
 		8AFCB4662BA9AC62000C74AB /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
@@ -153,6 +155,7 @@
 				8A85A2F12C2E5355003389E0 /* h-index.swift */,
 				8A85A2F32C2E713B003389E0 /* clothes.swift */,
 				8A85A2F52C2E762E003389E0 /* developFeature.swift */,
+				8A85A2FA2C2E8688003389E0 /* no1Cache.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				8A85A2E02C2BEF0C003389E0 /* jumpAndTeleportation.swift in Sources */,
 				8A85A2DA2C2AE962003389E0 /* repeatBinaryConversion.swift in Sources */,
 				8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */,
+				8A85A2FB2C2E8688003389E0 /* no1Cache.swift in Sources */,
 				8A7E8B0B2B7D92C500B73165 /* NextBigNumber.swift in Sources */,
 				8A85A2DE2C2BDA18003389E0 /* fibonacciNumber.swift in Sources */,
 				8A85A2D82C2989F6003389E0 /* researchMicroorganism.swift in Sources */,
