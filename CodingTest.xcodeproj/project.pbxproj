@@ -38,6 +38,7 @@
 		8A85A2FD2C2E8B56003389E0 /* process.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2FC2C2E8B56003389E0 /* process.swift */; };
 		8A85A2FF2C2E996F003389E0 /* tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A85A2FE2C2E996F003389E0 /* tuple.swift */; };
 		8A863DC32BAA7CD3008B1180 /* deliverAndPick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */; };
+		8AC113B72C2EDF5F002C2732 /* fatigue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC113B62C2EDF5F002C2732 /* fatigue.swift */; };
 		8AFCB4652BA985CA000C74AB /* defenceGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4642BA985CA000C74AB /* defenceGame.swift */; };
 		8AFCB4672BA9AC62000C74AB /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFCB4662BA9AC62000C74AB /* Heap.swift */; };
 /* End PBXBuildFile section */
@@ -87,6 +88,7 @@
 		8A85A2FC2C2E8B56003389E0 /* process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = process.swift; sourceTree = "<group>"; };
 		8A85A2FE2C2E996F003389E0 /* tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tuple.swift; sourceTree = "<group>"; };
 		8A863DC22BAA7CD3008B1180 /* deliverAndPick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deliverAndPick.swift; sourceTree = "<group>"; };
+		8AC113B62C2EDF5F002C2732 /* fatigue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fatigue.swift; sourceTree = "<group>"; };
 		8AFCB4642BA985CA000C74AB /* defenceGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = defenceGame.swift; sourceTree = "<group>"; };
 		8AFCB4662BA9AC62000C74AB /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -162,6 +164,7 @@
 				8A85A2FA2C2E8688003389E0 /* no1Cache.swift */,
 				8A85A2FC2C2E8B56003389E0 /* process.swift */,
 				8A85A2FE2C2E996F003389E0 /* tuple.swift */,
+				8AC113B62C2EDF5F002C2732 /* fatigue.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				8A85A2E02C2BEF0C003389E0 /* jumpAndTeleportation.swift in Sources */,
 				8A85A2DA2C2AE962003389E0 /* repeatBinaryConversion.swift in Sources */,
 				8A7740B72B6B25D300B69F98 /* findIntegerCoordinateBetweenTwoCircles.swift in Sources */,
+				8AC113B72C2EDF5F002C2732 /* fatigue.swift in Sources */,
 				8A85A2FB2C2E8688003389E0 /* no1Cache.swift in Sources */,
 				8A7E8B0B2B7D92C500B73165 /* NextBigNumber.swift in Sources */,
 				8A85A2DE2C2BDA18003389E0 /* fibonacciNumber.swift in Sources */,
