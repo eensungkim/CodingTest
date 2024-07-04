@@ -52,7 +52,7 @@ func tuple(_ s:String) -> [Int] {
     
     array.sort(by: { $0.count < $1.count })
 
-    var result: [Int] = array.reduce([]) { acc, element in
+    let result: [Int] = array.reduce([]) { acc, element in
         return acc + Array(Set(element).subtracting(Set(acc)))
     }
     

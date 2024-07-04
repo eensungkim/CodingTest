@@ -19,8 +19,8 @@ func fibonacciNumber(_ n:Int) -> Int {
     var fib1: Int = 1
     var fib2: Int = 1
     
-    for index in 3...n {
-        var temp =  (fib1 + fib2) % 1234567
+    for _ in 3...n {
+        let temp =  (fib1 + fib2) % 1234567
         fib1 = fib2
         fib2 = temp
     }

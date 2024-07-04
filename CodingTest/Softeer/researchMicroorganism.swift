@@ -8,7 +8,7 @@
 import Foundation
 
 func researchMicroorganism() {
-    let counts: Int = Int(readLine()!)!
+    let _: Int = Int(readLine()!)!
     let input: String = readLine()!
     let array = input.split(separator: " ").enumerated().map { ($0 + 1, Int($1)!) }
 
@@ -23,7 +23,7 @@ func researchMicroorganism() {
         if array.count <= 1 { return array }
 
         while !queueStack.isEmpty {
-            var (index, value) = queueStack.removeLast()
+            let (index, value) = queueStack.removeLast()
             
             if stack.isEmpty {
                 if let rightValue = queueStack.last?.1, value >= rightValue {

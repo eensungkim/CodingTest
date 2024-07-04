@@ -16,11 +16,8 @@ func createLargeNumber(_ number:String, _ k:Int) -> String {
         while !stack.isEmpty && removeCount > 0 && stack.last! < digit {
             stack.removeLast() // 스택에서 마지막 숫자 제거
             removeCount -= 1   // 제거할 숫자 카운트 감소
-            print("스택에서 제거 : ", stack)
-            print("count 의 변화 : ", removeCount)
         }
         stack.append(digit) // 현재 숫자를 스택에 추가
-        print("처음 for 문에서 : ", stack)
     }
     
     // 아직 제거할 숫자가 남아 있다면 뒤에서부터 제거

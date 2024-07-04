@@ -9,7 +9,7 @@ import Foundation
 
 func saleEvent(_ want:[String], _ number:[Int], _ discount:[String]) -> Int {
     var split = Array(discount.prefix(9))
-    var dictionary: [String: Int] = {
+    let dictionary: [String: Int] = {
         var dictionary: [String: Int] = [:]
         for (index, item) in want.enumerated() {
             dictionary[item] = number[index]
